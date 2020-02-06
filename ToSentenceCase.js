@@ -1,6 +1,4 @@
 const ToSentenceCase = (streeng) => {
-
-    let i = 0;
     let splitStringArray =  streeng.split(" ");
 
     if(splitStringArray.length === 1){
